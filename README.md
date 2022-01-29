@@ -12,7 +12,7 @@ This app allows to:
 This application uses:
 1) BigChainDB to store and retrieve Blockchains (www.bigchaindb.com). BigchainDB allows developers and enterprise to deploy blockchain proof-of-concepts, platforms and applications with a blockchain database, supporting a wide range of industries and use cases.
 
-2) MySQL to persist user-friendly userIds of a person and encrypted key/handle to the person's profile in BigChainDB
+2) My-SQL to persist user-friendly userIds of a person and encrypted key/handle to the person's profile in BigChainDB
 
 3) QuickSearch (https://github.com/karliszigurs/QuickSearch) for in-memory searching & indexing
 
